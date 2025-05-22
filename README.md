@@ -29,16 +29,12 @@ Sou apaixonado por ensinar e por transformar ideias em aplicações reais. Como 
 ---
 
 ## 🔥 Projetos em destaque
-- 📱 **Aplicativo Viral** – Aplicativo mobile com grande alcance orgânico. *(Link em breve)*  
-- 💼 **Portfólio Web** – Um espaço para compartilhar meus projetos. *(Em construção)*
-
+- 📱 **Aplicativo Viral** – Aplicativo mobile com grande alcance orgânico. *[Link](https://www.ubec.edu.br/estudante-de-sistemas-de-informacao-da-catolica-tocantins-cria-aplicativo-para-celular/)*  
 ---
 
 ## 🏆 Certificações e Comunidades
 - Microsoft Certified: Power Platform Fundamentals (PL-900)  
 - Microsoft Innovative Educator Expert (MIE Expert)  
-- Membro da Oracle Academy
-
 ---
 
 ## 📫 Vamos nos conectar!
