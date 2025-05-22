@@ -29,7 +29,8 @@ Sou apaixonado por ensinar e por transformar ideias em aplicações reais. Como 
 ---
 
 ## 🔥 Projetos em destaque
-- 📱 **Aplicativo Viral** – Aplicativo mobile com grande alcance orgânico. *[Link](https://www.ubec.edu.br/estudante-de-sistemas-de-informacao-da-catolica-tocantins-cria-aplicativo-para-celular/)*  
+- 📱 <strong>Aplicativo Viral</strong> – Aplicativo mobile com grande alcance orgânico. <a href="https://www.ubec.edu.br/estudante-de-sistemas-de-informacao-da-catolica-tocantins-cria-aplicativo-para-celular/" target="_blank">Link</a>
+
 ---
 
 ## 🏆 Certificações e Comunidades
@@ -38,8 +39,9 @@ Sou apaixonado por ensinar e por transformar ideias em aplicações reais. Como 
 ---
 
 ## 📫 Vamos nos conectar!
-- [LinkedIn](https://www.linkedin.com/in/pedrohsantanaa-dev/)   
-- [🎥 Canal no YouTube](https://www.youtube.com/@professorpedraoti)
+- <a href="https://www.linkedin.com/in/pedrohsantanaa-dev/" target="_blank">LinkedIn</a>  
+- <a href="https://www.youtube.com/@professorpedraoti" target="_blank">🎥 Canal no YouTube</a>
+
 
 ---
 
