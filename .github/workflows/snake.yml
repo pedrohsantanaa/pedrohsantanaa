@@ -9,22 +9,28 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Clona o repositório
       - uses: actions/checkout@v3
 
-      # Criar diretório dist explicitamente antes da geração
-      - name: Create dist directory
+      # Cria a pasta dist (garante que exista)
+      - name: Create dist folder
         run: mkdir -p dist
 
-      - uses: Platane/snk@v3
-        id: snake-gif
+      # Gera a cobrinha
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: pedrohsantanaa
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - name: List files in dist folder
+      # Lista arquivos (debug)
+      - name: List contents of dist
         run: ls -la dist
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Faz o deploy da cobrinha para o branch output
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
