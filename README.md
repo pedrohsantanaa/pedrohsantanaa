@@ -51,6 +51,7 @@ Sou apaixonado por ensinar e por transformar ideias em aplicações reais. Como 
 
 ![snake gif](https://github.com/pedrohsantanaa/pedrohsantanaa/blob/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 ⭐ Obrigado por visitar meu perfil!  
