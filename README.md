@@ -49,7 +49,7 @@ Sou apaixonado por ensinar e por transformar ideias em aplicações reais. Como 
 
 ## 🐍 Commit Snake
 
-![snake gif](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/pedrohsantanaa/pedrohsantanaa/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
