@@ -35,14 +35,17 @@ Sou apaixonado por ensinar e por transformar ideias em aplicações reais. Como 
 ---
 
 ## 🏆 Certificações e Comunidades
-- Microsoft Certified: Power Platform Fundamentals (PL-900)  
-- Microsoft Innovative Educator Expert (MIE Expert)  
-- Membro da Oracle Academy
+
+<div align="center">
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="100" alt="Microsoft Certified Badge" title="Microsoft Certified: Power Platform Fundamentals (PL-900)" />
+  <img src="https://img.icons8.com/color/480/microsoft.png" width="100" alt="MIE Expert" title="Microsoft Innovative Educator Expert" />
+  <img src="https://oracle-devrel.github.io/devo-image-repository/brand/logo-header.png" width="140" alt="Oracle Academy" title="Membro da Oracle Academy" />
+</div>
 
 ---
 
 ## 📫 Vamos nos conectar!
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+- [LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/pedrohsantanaa-dev/))  
 - [E-mail](mailto:seuemail@exemplo.com)  
 - [Portfólio](https://seuportfolio.com)  
 - [🎥 Canal no YouTube](https://www.youtube.com/@seucanal)
